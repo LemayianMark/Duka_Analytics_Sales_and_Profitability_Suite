@@ -24,7 +24,7 @@ Build a Power BI reporting suite that moves beyond raw revenue tracking — surf
 
 Duka Analytics processes **Ksh 6.68M** in total revenue across **832 orders** from **40 distinct customers**, spanning five product categories and six store locations. This suite tracks sales performance, profitability by category and location, and customer value to support both regional and category-level decision-making.
 
-![Executive Summary](Dashboard_Images/Customer_Insights)
+![Executive Summary](Executive_Summary.png)
 
 ---
 
@@ -84,16 +84,16 @@ RANKX(ALL('Product'[ProductName]), [Overall Gross Margin %], , DESC)
 ## 📸 Dashboard Gallery
 
 ### Page 1: Executive Summary
-![Executive_Summary](Dashboard_Images/Executive_Summary.png)
+![Executive_Summary](Executive_Summary.png)
 
 ### Page 2: Sales Performance
-![Sales_Performance](Dashboard_Images/Sales_Performance.png)
+![Sales_Performance](Sales_Performance.png)
 
 ### Page 3: Profitability Summary
-![Profitability_Summary](DashboardImages/Profitability.png)
+![Profitability_Summary](Profittability.png)
 
 ### Page 4: Customer Insights
-![Customer_Insights](Dashboard_Images/Customer_Insights.png)
+![Customer_Insights](Customer_Insights.png)
 
 ---
 
