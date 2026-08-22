@@ -90,7 +90,7 @@ RANKX(ALL('Product'[ProductName]), [Overall Gross Margin %], , DESC)
 ![Sales_Performance](Dashboard_Images/Sales_Performance.png)
 
 ### Page 3: Profitability Summary
-![Profitability_Summary](DashboardImages/Profitability_Summary.png)
+![Profitability_Summary](DashboardImages/Profitability.png)
 
 ### Page 4: Customer Insights
 ![Customer_Insights](Dashboard_Images/Customer_Insights.png)
